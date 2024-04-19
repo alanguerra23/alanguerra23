@@ -34,3 +34,7 @@
 <p align="left">
   <img align="center" src="https://media.tenor.com/YzianjI6Ca0AAAAe/lofi.png" alt="Imagem">
 </p>
+
+
+![Svg do Metrics](./github-metrics.svg)
+
