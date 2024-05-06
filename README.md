@@ -1,8 +1,5 @@
 ## Melhores Projetos:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+- [API Gateway com Go lang e Kong.](https://github.com/als-guerra/api-gateway-microservices)
 
 <!-- GIF -->
 <p align="left">
