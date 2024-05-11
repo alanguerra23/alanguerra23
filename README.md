@@ -1,3 +1,7 @@
+# Engenheiro de Software, DevOps, Back-End
+
+![Svg do Metrics](./github-metrics.svg)
+
 ## Melhores Projetos:
 
 - [API Gateway com Go lang e Kong.](https://github.com/als-guerra/api-gateway-microservices)
@@ -12,5 +16,3 @@
 <p align="left">
   <img align="center" src="https://media.tenor.com/YzianjI6Ca0AAAAe/lofi.png" alt="Imagem">
 </p>
-
-![Svg do Metrics](./github-metrics.svg)
