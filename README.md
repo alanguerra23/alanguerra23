@@ -1,6 +1,6 @@
 # Oii, Eu sou Alan Guerra
 
-Tenho 22 Anos de idade e sou uma singularidade na área de TI. Começando a escrever códigos em java e html aos 16 anos de idade. Atualmente eu gosto dessas áreas Engenharia de Software, DevOps e Back-End. Pretendo Seguir Carreira como Engenheiro de Software e Futuramente ser Professor de TI. Algumas das ferramentas que eu utilizo são **TypeScript**, **NestJS**, **Postgresql**, **Mongodb** e **Graphql**
+Tenho 22 Anos de idade e sou uma singularidade na área de TI. Começando a escrever códigos em java e html aos 16 anos de idade. Atualmente eu gosto dessas áreas Engenharia de Software, DevOps e Back-End. Pretendo Seguir Carreira como Engenheiro de Software e Futuramente ser Professor de TI. Algumas das ferramentas que eu utilizo são **Angular**, **React**, **NestJS**, **Postgresql**, **Mongodb** e **Graphql**
 
 <div> 
   <a href="https://www.youtube.com/@als-guerra" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
