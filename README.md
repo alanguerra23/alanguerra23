@@ -10,8 +10,3 @@ Tenho 22 Anos de idade e sou uma singularidade na área de TI. Começando a escr
   <a href = "mailto:alanlimadasilvaguerra@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/als-guerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-## Projetos Relevantes
-
-- [Utilizando API Gateway Kong e Konga.](https://github.com/material-estudos-alan/api-gateway-microservices)
-- [Padronizando Commits no Git](https://github.com/material-estudos-alan/padronizando-commits).
